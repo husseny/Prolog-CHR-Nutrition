@@ -14,6 +14,6 @@ Why not constraint programs?
 - running time(graphs)
 
 Prof. feedback:
-Editing the plan
-changing a meal and keep in mind previous plan
-dynamic rules by user
+- Editing the plan
+- Changing a meal and keep in mind previous plan
+- Dynamic rules by user
